@@ -1,0 +1,3 @@
+pdfminer.six==20170720
+pyenchant==2.0.0
+jupyter==1.0.0

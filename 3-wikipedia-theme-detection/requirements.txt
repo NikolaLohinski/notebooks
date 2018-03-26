@@ -1,0 +1,5 @@
+jupyter==1.0.0
+nltk==3.2.5
+openpyxl==2.5.0
+pyenchant==2.0.0
+wikitools==1.3
