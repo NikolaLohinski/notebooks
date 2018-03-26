@@ -5,10 +5,10 @@ _This repository is a collection of several python jupyter-notebooks on various
 
 A short overview of a few stochastic optimization methods for neural networks with a focus on one of them called ADAM.
 
-## [2 PDF contact extraction](https://github.com/NikolaLohinski/python-notebooks/blob/master/2-PDF-contact-extraction)
+## [2 Contact extraction from PDFs](https://github.com/NikolaLohinski/python-notebooks/blob/master/2-PDF-contact-extraction)
 
 A way to combine different libraries and RegEx to extract contacts from unstructered PDF documents.
  
-## [3 Wikipedia theme extraction](https://github.com/NikolaLohinski/python-notebooks/blob/master/3-wikipedia-theme-extraction)
+## [3 Theme detection with Wikipedia](https://github.com/NikolaLohinski/python-notebooks/tree/master/3-wikipedia-theme-detection)
 
 A tool to extract content from Excel in python and detect themes in very short texts using Wikipedia's API.
