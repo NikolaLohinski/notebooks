@@ -17,6 +17,7 @@ made
 **Content** : A tool to extract content from Excel in python and detect themes in very short texts using Wikipedia's API.
 
 ## [4 Exploratory statistics on images](https://github.com/NikolaLohinski/notebooks/blob/master/4-image-exploratory-stats)
+**Language** : `R`
 
-A simple example of usage of K-means, principal component analysis, hierarchical clustering and a few other tools to analyse a RGB image.
+**Content** : A simple example of usage of K-means, principal component analysis, hierarchical clustering and a few other tools to analyse a RGB image.
 
